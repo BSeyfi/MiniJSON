@@ -1,3 +1,10 @@
+# Forked Repository: Update to .NET 7 with Nullable Reference Types Support
+
+This fork is an updated version of the original repository that has been upgraded to .NET 7 and includes support for nullable reference types.
+
+
+# Original Creator's README
+
 MiniJSON.cs
 ===
 A proper git repo for MiniJSON.cs by darktable (https://gist.github.com/darktable/1411710).
