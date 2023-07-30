@@ -15,6 +15,6 @@ I'm happy to hand this repo back to @darktable whenever he wants to administrate
 
 ## [Licence](LICENCE)
 
-Copyright (c) 2013 Calvin Rien
+Copyright (c) 2023 Behzad Seyfi
 
 Licensed under the [MIT LICENCE](LICENCE).
