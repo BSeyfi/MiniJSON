@@ -10,3 +10,9 @@ var jsonString = "{ \"array\": [1.44,2,3], " +
                  "\"null\": null }";
 
 var dict = Json.Deserialize(jsonString) as Dictionary<string, object>;
+
+//print dict key value pairs
+foreach (var pair in dict)
+{
+    Console.WriteLine($"{pair.Key}: {pair.Value}");
+}
